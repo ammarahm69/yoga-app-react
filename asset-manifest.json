@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/yoga-app-react/static/css/main.5fbed6cc.css",
+    "main.js": "/yoga-app-react/static/js/main.1e26308e.js",
+    "static/js/453.64512fd7.chunk.js": "/yoga-app-react/static/js/453.64512fd7.chunk.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/yoga-app-react/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/slider-1.webp": "/yoga-app-react/static/media/slider-1.3dcce8f01a0351d44fcc.webp",
+    "static/media/slider-2.webp": "/yoga-app-react/static/media/slider-2.08d0c66d3b52a7ba4ef2.webp",
+    "static/media/belt4.jfif": "/yoga-app-react/static/media/belt4.f9125b8adb57c0e52746.jfif",
+    "static/media/circular2.webp": "/yoga-app-react/static/media/circular2.ab78acddbda9884f76c2.webp",
+    "static/media/trainer2.webp": "/yoga-app-react/static/media/trainer2.f428e365ad62080bfb21.webp",
+    "static/media/belt3.jfif": "/yoga-app-react/static/media/belt3.6688dfb3ff8c2c0218f3.jfif",
+    "static/media/trainer3.webp": "/yoga-app-react/static/media/trainer3.1911413df09761aff230.webp",
+    "static/media/circular1.webp": "/yoga-app-react/static/media/circular1.eb4df1ab7c2504659980.webp",
+    "static/media/slider-4.webp": "/yoga-app-react/static/media/slider-4.faa0c30a9040452b1b29.webp",
+    "static/media/trainer1.webp": "/yoga-app-react/static/media/trainer1.e85367e45bcc9e2368df.webp",
+    "static/media/pose-1.avif": "/yoga-app-react/static/media/pose-1.3d233ee66546e6f4dcdf.avif",
+    "static/media/trainer4.webp": "/yoga-app-react/static/media/trainer4.9746b6844dece5cd44da.webp",
+    "static/media/shoes4.jfif": "/yoga-app-react/static/media/shoes4.9d5a274b3aae6f9d9fdb.jfif",
+    "static/media/blocks2.jfif": "/yoga-app-react/static/media/blocks2.4e589d955d536b05da26.jfif",
+    "static/media/circular3.webp": "/yoga-app-react/static/media/circular3.32b6405ec972a73bc2d9.webp",
+    "static/media/shoes2.jfif": "/yoga-app-react/static/media/shoes2.8e7e93cc410df7cd7ed3.jfif",
+    "static/media/belt1.jfif": "/yoga-app-react/static/media/belt1.308a8dbc6d36552d0d61.jfif",
+    "static/media/belt2.jfif": "/yoga-app-react/static/media/belt2.51467588345771f696f3.jfif",
+    "static/media/circular4.webp": "/yoga-app-react/static/media/circular4.78731c544009c8f718c5.webp",
+    "static/media/shoes1.jfif": "/yoga-app-react/static/media/shoes1.2f8f3e99ecd8af3e03e8.jfif",
+    "static/media/blocks1.jfif": "/yoga-app-react/static/media/blocks1.dd3e173eb6ab266eb75c.jfif",
+    "static/media/blocks3.jfif": "/yoga-app-react/static/media/blocks3.9386ec8972f3679f8a44.jfif",
+    "static/media/slider-3.webp": "/yoga-app-react/static/media/slider-3.cbfe5163af23c619aa94.webp",
+    "static/media/shoes3.jfif": "/yoga-app-react/static/media/shoes3.8cf50b6780e41836b74c.jfif",
+    "static/media/blocks4.jfif": "/yoga-app-react/static/media/blocks4.ebeb1a6759603b96f803.jfif",
+    "index.html": "/yoga-app-react/index.html",
+    "main.5fbed6cc.css.map": "/yoga-app-react/static/css/main.5fbed6cc.css.map",
+    "main.1e26308e.js.map": "/yoga-app-react/static/js/main.1e26308e.js.map",
+    "453.64512fd7.chunk.js.map": "/yoga-app-react/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fbed6cc.css",
+    "static/js/main.1e26308e.js"
+  ]
+}
